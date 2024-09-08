@@ -7,4 +7,4 @@ listing:
   categories: true
 ---
 
-About this site
+This is my blog.
