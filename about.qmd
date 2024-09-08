@@ -4,7 +4,7 @@ about:
   links:
     - icon: twitter
       text: X
-      href: https://x.com/MosesRivera100
+      href: "https://x.com/MosesRivera100"
 ---
 
 About me.
