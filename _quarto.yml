@@ -13,9 +13,9 @@ website:
     style: "floating"  # Options: "floating" (scrolls with the page) or "regular" (fixed)
     search: true
     contents:
-      - text: Home
+      - text: "Home"
         href: index.qmd
-      - text: About
+      - text: "About"
         href: about.qmd
 
 
