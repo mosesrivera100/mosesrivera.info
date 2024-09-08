@@ -4,11 +4,13 @@ project:
 
 website:
   title: "mosesrivera.info"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  sidebar:
+    style: "floating"  # Options: "floating" (scrolls with the page) or "regular" (fixed)
+    items:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
 
 
 
