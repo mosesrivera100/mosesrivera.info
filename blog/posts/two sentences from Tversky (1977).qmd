@@ -1,7 +1,7 @@
 ---
 title: "Two sentences from Tversky (1977)"
 date: "January 31, 2024"
-date-modified:
+#date-modified:
 format: html
 ---
 
