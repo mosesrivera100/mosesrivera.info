@@ -3,6 +3,7 @@ project:
 
 website:
   title: "mosesrivera.info"
+  output-dir: docs  # Set output directory to docs for GitHub Pages compatibility
   navbar:
     left:
       - href: index.qmd
