@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs  # Set output directory to docs for GitHub Pages compatibility
 
 website:
   title: "mosesrivera.info"
@@ -9,7 +10,7 @@ website:
         text: Home
       - about.qmd
 
-output-dir: docs  # Set output directory to docs for GitHub Pages compatibility
+
 
 format:
   html:
