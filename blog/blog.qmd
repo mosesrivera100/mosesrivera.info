@@ -1,5 +1,10 @@
 ---
 title: "About"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
 ---
 
 About this site
