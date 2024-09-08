@@ -4,6 +4,8 @@ project:
 
 website:
   title: "mosesrivera.info"
+  site-url: https://mosesrivera100.github.io/mosesrivera.info/
+  description: "Moses Rivera's blog"
   #navbar:
     #left:
       #- href: index.qmd
@@ -16,7 +18,17 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "About"
-        href: about.qmd
+        href: about.qmd.
+      - blog/blog.qmd
+  reader-mode: true
+  back-to-top-navigation: true
+  page-footer: 
+    #left: 
+    center: "Copyright 2024, Moses Rivera" 
+    #right:
+    #background:
+    #foreground:
+    #border:
 
 
 
