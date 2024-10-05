@@ -1,10 +1,10 @@
 ---
 title: "About"
-about:
-  links:
-    - icon: twitter
-      text: "X"
-      href: "https://x.com/MosesRivera100"
+#about:
+  #links:
+    #- icon: twitter
+      #text: "X"
+      #href: https://x.com/MosesRivera100
 ---
 
 About me.

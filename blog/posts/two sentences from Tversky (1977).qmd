@@ -8,7 +8,15 @@ format: html
 Today it took me a while to understand these two sentences from Tversky’s (1977) contrast theory paper.
 
 
-(Tversky, 1977, p. 330)
+::: {#fig-1 .figure}
+![(Tversky, 1977, p. 330)](tversky.png){fig-align="center" width=80%}
+:::
+
+
 The trick is in figuring out how he envisioned the features of the uppercase block letter “I”. If you assume it has five features (i.e., “E” shares the right-hand side of “I”‘s hat and base), then the math disagrees with Tversky’s statement. Otherwise, if you assume it has either 3 features (where its hat and base are unique to it) or 1 feature (just a vertical line), then you’re on the same page as Tversky. If you’re still stuck, keep in mind his theory defines features as being positively detected, rather than negatively detected (e.g., the fact that the letter “I” is missing a middle horizontal line is not a feature).
 
+This is a test $\sum x^2$. what if I wrote *x*.
+
 A Venn diagram should get you there.
+
+[@Tversky]

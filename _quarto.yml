@@ -30,13 +30,15 @@ website:
     #foreground:
     #border:
 
-
+bibliography: "my Zotero library as of September 8, 2024.bib"
 
 format:
   html:
+    mainfont: "LM Roman 12"
     theme: cosmo
     css: styles.css
     toc: true
+
 
 
 
