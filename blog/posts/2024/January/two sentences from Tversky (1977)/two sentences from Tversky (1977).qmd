@@ -3,8 +3,8 @@ title: "Two sentences from Tversky (1977)"
 date: "January 31, 2024"
 #date-modified:
 format: html
-bibliography: ../../../../references.bib
-csl: ../../../../apa.csl
+bibliography: ../../../../../references.bib
+csl: ../../../../../apa.csl
 ---
 
 Today it took me a while to understand these two sentences from Tversky’s [-@tversky1977] contrast theory paper.
